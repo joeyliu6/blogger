@@ -29,9 +29,6 @@ Blogger 还有一个缺点，如果你想给你的博客加上一些功能的话
 
 ## 二、国内使用 Blogger 攻略
 
-首先，请确认自己能够科学上网。
-
-> Ads：我正在使用的科学上网服务商：[科学上网好好学习](https://user.xn--fhqzh392aa65vda8165c5gj.com/)。你可以使用我的优惠码：65ajOols2s，享6.5折优惠。
 
 ### 1. 域名
 
@@ -209,6 +206,6 @@ Blogger 自带的评论自然无法正常使用，为此我跟换了多说，多
 	- 完成初稿
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGFnczogQmxvZ2dlclxuZGF0ZTogJz
-IwMTYtMDktMDknXG4iLCJoaXN0b3J5IjpbLTcyMDIyNzczMV19
-
+IwMTYtMDktMDknXG4iLCJoaXN0b3J5IjpbMTczODYzOTM0Niwt
+NzIwMjI3NzMxXX0=
 -->
